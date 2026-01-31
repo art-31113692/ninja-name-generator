@@ -83,4 +83,4 @@ A little ninja GIF or animation that:
 
 Pick the ones that sound most fun and start with those! You can always add more later.
 
-**Prototype available:** [Ninja Name Generator](./ninja-name-generator/)
+**Prototype available:** [Ninja Name Generator](https://art-31113692.github.io/ninja-name-generator/)
